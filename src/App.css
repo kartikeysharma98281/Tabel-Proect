@@ -1,0 +1,91 @@
+.tabel1{
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 640px;
+    height: 320px;
+    left: 86px;
+    top: 34px;
+
+}
+
+.tabel2{
+    position: absolute;
+width: 570px;
+height: 320px;
+left: 86px;
+top: 568px;
+}
+
+.tabel3{
+    
+position: absolute;
+width: 700px;
+height: 320px;
+left: 86px;
+top: 977px;
+
+}
+
+#emailAddress{
+    color: #0071CC;
+    text-decoration-line: underline;
+}
+
+img{
+    box-sizing: border-box;
+
+width: 25px;
+height: 25px;
+
+/* background: url(.jpg); */
+/* GreyColor/70 */
+
+border: 1px solid #747474;
+border-radius: 40px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.arrow{
+    border-color: white;
+}
+
+tr:nth-child(odd) {
+    background-color: #F5F5F5;
+}
+
+tr{
+    background-color: white;
+}
+
+@font-face {
+    font-family: 'Noto Sans', sans-serif;
+src: url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100&display=swap');
+}
+
+thead{
+ 
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 170%;
+
+}
+
+.arrow{
+    /* position: absolute; */
+left: 40.75%;
+right: 59.25%;
+top: 38.28%;
+bottom: 38.28%;
+height: 19px;
+border-color: white;
+}
+
