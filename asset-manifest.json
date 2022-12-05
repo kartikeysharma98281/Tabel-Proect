@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tabel-Proect/static/css/main.441d0f24.css",
+    "main.js": "/Tabel-Proect/static/js/main.527f275f.js",
+    "index.html": "/Tabel-Proect/index.html",
+    "main.441d0f24.css.map": "/Tabel-Proect/static/css/main.441d0f24.css.map",
+    "main.527f275f.js.map": "/Tabel-Proect/static/js/main.527f275f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.441d0f24.css",
+    "static/js/main.527f275f.js"
+  ]
+}
